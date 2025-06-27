@@ -1,4 +1,12 @@
-<h1>Last Update: March 20th, 2025<br>Date Format: dd-mm-yyyy</h1>
+<h1>Last Update: March 20th, 2025 // Date Format: dd-mm-yyyy</h1>
+
+<h2><img width="24" src="/archive/teamspeak_blue.svg"></a>&nbsp;About TeamSpeak Badges</h2>
+
+TeamSpeak Badges are small icons that appear next to your name in the TeamSpeak client. They’re used to show off achievements, events you've participated in, or support you've given to TeamSpeak.
+
+Some badges are given out for being part of special events, some are earned through giveaways or promotions, and others are exclusive to long-time users, developers, or supporters. While they don’t affect how TeamSpeak works, badges are a fun way to personalize your account and show a bit of your history or community involvement.
+
+This list includes every badge ever released, including rare, retired, and even unreleased ones, perfect for collectors, curious users, or anyone exploring the world of TeamSpeak Badges.
 
 ---
 | SVG | Details SVG | PNG | Details PNG |
