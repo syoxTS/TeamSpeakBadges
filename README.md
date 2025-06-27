@@ -1,4 +1,5 @@
-# Last Update: March 20th, 2025 | Date Format: dd-mm-yyyy
+<h1>Last Update: March 20th, 2025<br>Date Format: dd-mm-yyyy</h1>
+
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
@@ -1024,7 +1025,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| - | - | ![](upload://9nPFMo8He3N1rMHa2BjiDmPCvSI.png) | ![](upload://djcdhxKa506F21B1A8M2KwNgA7V.png)
+| - | - | <img src="/archive/floppy_16.png"> | <img src="/archive/floppy_64.png">
 
 **Name:** I'm a Floppy (This user is a floppy disk.)<br>
 **GUID:** [c9a170ca-62c2-47bf-990b-db75a5d7b086](http://badges-content.teamspeak.com/floppy)<br>
@@ -1035,7 +1036,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| - | - | ![](upload://kbuSsrLY8RdSslM1YWvr23oIzBb.png) | ![](upload://wSenx0FlGnKHhHI9jGfZsFwbgKd.png)
+| - | - | <img src="/archive/scanner_16.png"> | <img src="/archive/scanner_64.png">
 
 **Name:** I'm a Scanner (This user is a flatbed scanner.)<br>
 **GUID:** [c9a170ca-62c2-47bf-990b-db75a5d7b086](http://badges-content.teamspeak.com/scanner)<br>
@@ -1046,7 +1047,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| - | - | ![](upload://viz2h7yZe3aaboy6rebuujtBbE.png) | ![](upload://l81OwftiI3As5kJ6b1iRR1Trikn.png)
+| - | - | <img src="/archive/informed_16.png"> | <img src="/archive/informed_64.png">
 
 **Name:** Informed User (This is a certified informed TeamSpeak user.)<br>
 **GUID:** [facee3a7-1db0-4493-a5cf-24c9f938d35d](http://badges-content.teamspeak.com/info)<br>
@@ -1057,7 +1058,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| - | - | ![](upload://11uSMeLzDP9mC7OwHoxVqYAeWSO.png) | ![](upload://xkqrN4PUARvseC8ZZYRfJx28hTx.png)
+| - | - | <img src="/archive/bug_16.png"> | <img src="/archive/bug_64.png">
 
 **Name:** Best Bug Hunter (This user won the Best Bug Hunter Award.)<br>
 **GUID:** [ef85ab02-8236-4e38-96cb-02c73789734f](http://badges-content.teamspeak.com/bug)<br>
@@ -1068,7 +1069,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| - | - | ![](upload://ysihsMQyr0eESOcu94mlJpdBTv9.png) | ![](upload://3UlzyNcsMR0WI4k2T1wG2HecWxU.png)
+| - | - | <img src="/archive/hat_16.png"> | <img src="/archive/hat_64.png">
 
 **Name:** Coolest Hat (This user won the Coolest Hat Award.)<br>
 **GUID:** [17dfa0dc-b6e6-42fd-8c9c-b7d168f0823e](http://badges-content.teamspeak.com/hat)<br>
