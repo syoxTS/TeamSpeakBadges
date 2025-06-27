@@ -1,4 +1,4 @@
-<h1>Last Update: March 20th, 2025 // Date Format: dd-mm-yyyy</h1>
+<h1>Last Update: March 20th, 2025<br>Date Format: dd-mm-yyyy</h1>
 
 <h2><img width="24" src="/archive/teamspeak_blue.svg"></a>&nbsp;About TeamSpeak Badges</h2>
 
