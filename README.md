@@ -109,7 +109,7 @@ This list includes every badge ever released, including rare, retired, and even 
 
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
-| ![16x16](upload://A0pGx6Hkpllb4InPrb6XI9q3FZN.png) | ![64x64](upload://fLCitJTwMkk62vTFCNKrMlBlyqg.png) | ![16x16](upload://A0pGx6Hkpllb4InPrb6XI9q3FZN.png) | ![64x64](upload://fLCitJTwMkk62vTFCNKrMlBlyqg.png)
+| <img src="/archive/backupday_2023_16.svg"> | <img src="/archive/backupday_2023_64px.svg"> | <img src="/archive/backupday_2023_16px.png"> | <img src="/archive/backupday_2023_64px.png">
 
 **Name:** World Backup Day (Don't be an April Fool. Back up your data!)<br>
 **Badge Code:** `WRLDBCKPDY`<br>
