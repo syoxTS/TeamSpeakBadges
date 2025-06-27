@@ -8,6 +8,10 @@ Some badges are given out for being part of special events, some are earned thro
 
 This list includes every badge ever released, including rare, retired, and even unreleased ones, perfect for collectors, curious users, or anyone exploring the world of TeamSpeak Badges.
 
+[All Badges](#about-teamspeak-badges)<br>
+[Deleted 2016 Testing Badges](#deleted-2016-testing-badgesremoved-on-february-16-2017-they-only-existed-for-testing-purposes)<br>
+[Unreleased Badges](#unreleased-badges)<br>
+
 ---
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
@@ -1028,8 +1032,7 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 > Create an addon for TeamSpeak
 
 ---
-
-# ❌ Badges below were removed on February 16, 2017. They only existed for testing purposes ❌
+## Deleted 2016 Testing Badges<br>Removed on February 16, 2017. They only existed for testing purposes.
 
 | SVG | Details SVG | PNG | Details PNG |
 | :-: | :-: | :-: | :-: |
@@ -1084,6 +1087,11 @@ The code will be sent to the email that you used to register your myTeamSpeak ac
 **Badge Code:** Non-Assignable (Available until: Never)<br>
 
 > Removed end of November 2016
+
+---
+# Unreleased Badges
+
+**WORK IN PROGRESS**
 
 ---
 * SVG badge version (suffix: .svg)
